@@ -1,4 +1,4 @@
-### Anomaly Analysis
+## Anomaly Analysis
 ## Insert Anomaly
 
 In the dataset, product-related columns such as product_id, product_name, category, and unit_price are always tied to an order_id.
@@ -50,7 +50,7 @@ product_name, unit_price
 Conclusion:
 This is an Update Anomaly because duplicate data must be updated in multiple places.
 
-## Delete Anomaly (with exact row)
+## Delete Anomaly
 
 Consider this row:
 
