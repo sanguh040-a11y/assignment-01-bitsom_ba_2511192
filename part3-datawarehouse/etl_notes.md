@@ -9,3 +9,4 @@ Resolution: Replaced NULLs with "Unknown" or used the most frequent city value w
 Decision 3 — Normalizing Product Categories
 Problem: Product categories appeared with inconsistent casing and abbreviations, e.g., "clothing", "Cloth.", "GROCERIES".
 Resolution: Standardized categories to lowercase and fixed spelling errors to ensure consistent categorization, enabling accurate grouping in analysis.
+

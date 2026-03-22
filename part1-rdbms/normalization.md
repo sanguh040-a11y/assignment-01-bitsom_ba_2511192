@@ -91,3 +91,4 @@ Similarly, insert anomalies occur because new entities cannot be added independe
 By normalizing the data into separate tables such as Customers, Products, Orders, and Sales Representatives, we eliminate redundancy and ensure data consistency. Each entity is stored only once, and relationships are maintained using foreign keys. This design improves scalability, reduces storage duplication, and ensures that updates, inserts, and deletes can be performed safely without unintended data loss.
 
 Therefore, normalization is not over-engineering but a necessary step to ensure data integrity, consistency, and long-term maintainability of the system.
+
